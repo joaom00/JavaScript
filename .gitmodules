@@ -1,0 +1,6 @@
+[submodule "moveit"]
+	path = moveit
+	url = git@github.com:joaom00/MoveIt.git
+[submodule "beatmaker"]
+	path = beatmaker
+	url = git@github.com:joaom00/Beatmaker.git
