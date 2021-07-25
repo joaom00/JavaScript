@@ -6,4 +6,4 @@
 	url = git@github.com:joaom00/Beatmaker.git
 [submodule "50Projects50Days"]
 	path = ../50Projects50Days
-	url = git@github.com:joaom00/50Projects50Days
+	url = git@github.com:joaom00/50Projects50Days.git
