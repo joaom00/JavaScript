@@ -10,3 +10,6 @@
 [submodule "slide"]
 	path = slide
 	url = git@github.com:joaom00/slide.git
+[submodule "rock-paper-scissors"]
+	path = rock-paper-scissors
+	url = git@github.com:joaom00/rock-paper-scissors.git
